@@ -1,0 +1,15 @@
+C:\Users\victu\Downloads\MtTapsirq\MtTapsirq\bin\Debug\net6.0\MtTapsirq.exe
+C:\Users\victu\Downloads\MtTapsirq\MtTapsirq\bin\Debug\net6.0\MtTapsirq.deps.json
+C:\Users\victu\Downloads\MtTapsirq\MtTapsirq\bin\Debug\net6.0\MtTapsirq.runtimeconfig.json
+C:\Users\victu\Downloads\MtTapsirq\MtTapsirq\bin\Debug\net6.0\MtTapsirq.dll
+C:\Users\victu\Downloads\MtTapsirq\MtTapsirq\bin\Debug\net6.0\MtTapsirq.pdb
+C:\Users\victu\Downloads\MtTapsirq\MtTapsirq\obj\Debug\net6.0\MtTapsirq.csproj.AssemblyReference.cache
+C:\Users\victu\Downloads\MtTapsirq\MtTapsirq\obj\Debug\net6.0\MtTapsirq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victu\Downloads\MtTapsirq\MtTapsirq\obj\Debug\net6.0\MtTapsirq.AssemblyInfoInputs.cache
+C:\Users\victu\Downloads\MtTapsirq\MtTapsirq\obj\Debug\net6.0\MtTapsirq.AssemblyInfo.cs
+C:\Users\victu\Downloads\MtTapsirq\MtTapsirq\obj\Debug\net6.0\MtTapsirq.csproj.CoreCompileInputs.cache
+C:\Users\victu\Downloads\MtTapsirq\MtTapsirq\obj\Debug\net6.0\MtTapsirq.dll
+C:\Users\victu\Downloads\MtTapsirq\MtTapsirq\obj\Debug\net6.0\refint\MtTapsirq.dll
+C:\Users\victu\Downloads\MtTapsirq\MtTapsirq\obj\Debug\net6.0\MtTapsirq.pdb
+C:\Users\victu\Downloads\MtTapsirq\MtTapsirq\obj\Debug\net6.0\MtTapsirq.genruntimeconfig.cache
+C:\Users\victu\Downloads\MtTapsirq\MtTapsirq\obj\Debug\net6.0\ref\MtTapsirq.dll
